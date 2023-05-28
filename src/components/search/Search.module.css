@@ -1,0 +1,12 @@
+.input{
+    margin-left: 16%;
+    width: 62%;
+    border-radius: 8px;
+    border: 2px solid green;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+} 
+.btn {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+
+}
