@@ -1,3 +1,13 @@
+# Rick and Morty API front-end app for Final Cemestry Session
+I used https://rickandmortyapi.com/ api for this project.
+This project made for showing my skills of JS(dont need to take this project seriously)
+Just a simple project with simple open-source api for dev's who like to study
+
+## Used technology:
+JavaScript, React, node.js
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
